@@ -10,6 +10,14 @@ main {
     align-items: center;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color: #466d7c;
+}
+
 #city-input, #weather-output {
     max-width: 400px;
     margin: 0 auto;
